@@ -1,3 +1,29 @@
+# Project Info
+## Orientation
+Framer.Info =
+# 	title: "Module for sensor"
+	author: "Jungho Song"
+	twitter: "@threeword"
+	description: "
+		Use the Orientation sensor\n
+		\n
+		Github : https://github.com/framer-modules/sensor.framer
+	"
+	date: "2016-10-04"
+	
+# Project Info
+## Motion
+# Framer.Info =
+# 	title: "Module for sensor"
+# 	author: "Jungho Song"
+# 	twitter: "@threeword"
+# 	description: "
+# 		Use the Motion sensor\n
+# 		\n
+# 		Github : https://github.com/framer-modules/sensor.framer
+# 	"
+# 	date: "2016-10-04"
+
 # Background
 Screen.backgroundColor = "gray"
 
