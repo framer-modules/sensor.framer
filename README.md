@@ -79,8 +79,6 @@ When the sensor value changes
 > More info about Device Orientation Event : [W3C Device Orientation Event Specification](https://www.w3.org/TR/orientation-event/)
 
 # Sample
-
-
 ### Prepare
 #### Set background color
 ```coffeescript
