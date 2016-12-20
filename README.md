@@ -3,6 +3,7 @@ A Framer Studio module for deivce sensor to your project.
 
 [Demo - Orientation Sensor](http://share.framerjs.com/0u4qyj91uvub/)  
 [Demo - Motion Sensor](http://share.framerjs.com/9ugkru2ubjy6/)
+> check it on the device that provides the motion sensor (mobile).
 
 # Preview
 [![Sensor module for Framer](screenrecord.gif)](https://vimeo.com/196395840)  
