@@ -18,39 +18,40 @@ Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
 
 # Usage
-## Context
-### Constant
+### Context
+#### Constant
 ##### Context.SENSOR_SERVICE
 Sensor service
 
-### Method
+#### Method
 ##### getSystemService(service)
 Get system service
 
 ###### Parameters
 * service [string] - service
 
-## Sensor
-### Constant
+---
+### Sensor
+#### Constant
 ##### Sensor.TYPE_ORIENTATION
 Orientation sensor
 
 ##### Sensor.TYPE_MOTION
 Motion sensor
 
-### Properties
+#### Properties
 ##### Sensor.smooth
 [Number] Coefficient of sensor transfer value  
 > Since the sensor of the device reacts very sensitively, if the value transmitted from the sensor is used as it is, the small movement of the device will cause it to shake or vibrate.
 >You can adjust the value to obtain a smoothly tuned value
 
-### Events
-#### Change
+#### Events
+##### Change
 When the sensor value changes  
 
 `Events.Change` - New sensor value.  
 
-##### Shortcut
+###### Shortcut
 **Sensor.onChange(orientation or motion)**
 
 ###### Parameters
@@ -59,7 +60,7 @@ When the sensor value changes
     * beta [Double] - X-axis rotation
     * gamma [Double] - Y-axis rotation
 
-* motion [Object] - Motion values (Motion Sensro)
+* motion [Object] - Motion values (Motion Sensor)
     * acceleration
         * x [Double]
         * y [Double]
@@ -79,13 +80,13 @@ When the sensor value changes
 # Sample
 
 
-## Prepare
-### Set background color
+### Prepare
+#### Set background color
 ```coffeescript
 Screen.backgroundColor = "gray"
 ```
 
-### Create cube
+#### Create cube
 ```coffeescript
 #
 SIZE = 200
@@ -124,8 +125,8 @@ left = new Layer _.extend _.clone(properties), html: "left", rotationY: -90, x: 
 right = new Layer _.extend _.clone(properties), html: "right", rotationY: 90, x: 100
 ```
 
-## Use module
-### Orientation sensor
+### Use module
+#### Orientation sensor
 ```coffeescript
 # Module
 require 'System'
@@ -142,7 +143,7 @@ if sensorOrientation
 
 **or**
 
-### Motion sensor
+#### Motion sensor
 ```coffeescript
 # Module
 require 'System'
