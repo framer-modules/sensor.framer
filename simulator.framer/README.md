@@ -5,25 +5,25 @@ Demo : https://framer-modules.github.io/sensor.framer/simulator.framer
 
 <br/>
 
-# Preview
+## Preview
 ![Orientation simulator](screenrecord.gif)
 
 <br/>
 
-# Features
+## Features
 - Multiple browser supported
 - Fullscreen supported
 - Tilting the device with left / right mouse movement
 
 <br/>
 
-# Installation
+## Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
 
 <br/>
 
-# Usage
+## Usage
 ### OrientationSimulator
 
 #### Method
@@ -35,7 +35,7 @@ When the tilt value changes
 
 <br/>
 
-# Sample
+## Sample
 ### Prepare
 #### Set background color
 ```coffeescript
