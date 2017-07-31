@@ -1,7 +1,7 @@
 # Orientation simulator (for Desktop)
-A Framer Studio module for deivce sensor simulator to your project. 
+A Framer Studio module for deivce sensor simulator to your project.  
 
-[Demo](http://share.framerjs.com/x1tqsgi1i7uo/)
+Demo : https://framer-modules.github.io/sensor.framer/simulator.framer  
 
 <br/>
 
@@ -31,7 +31,7 @@ Copy the "module" folder and paste it into your prototype folder
 When the tilt value changes  
 
 ###### Parameters
-* gamma [Double] - Y-axis rotation (default: 0, range: -1.0 ~ 1.0)
+- gamma [Double] - Y-axis rotation (default: 0, range: -1.0 ~ 1.0)
 
 <br/>
 
