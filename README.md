@@ -13,13 +13,6 @@ A Framer Studio module for deivce sensor to your project.
 
 <br/>
 
-# Expansion
-- [360 degree viewer](/360viewer.framer)
-- [Lenticular](/lenticular.framer)
-- [Simulator for Desktop](/orientation-simulator.framer)
-
-<br/>
-
 # Features
 - Multiple browser supported
 - Orientation Sensor 
@@ -30,6 +23,13 @@ A Framer Studio module for deivce sensor to your project.
 # Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
+
+<br/>
+
+# Expansion
+- [360 degree viewer](/360viewer.framer)
+- [Lenticular](/lenticular.framer)
+- [Simulator for Desktop](/orientation-simulator.framer)
 
 <br/>
 
