@@ -1,12 +1,15 @@
 # 360° Viewer
 A Framer Studio module for 360 degree rotation viewer using mobile sensor  
 
-Demo : https://framer-modules.github.io/sensor.framer/360Viewer.framer
+Demo : https://framer-modules.github.io/sensor.framer/360Viewer.framer  
 
 <br/>
 
 # Preview
+## Desktop
 ![Orientation simulator](screenrecord.gif)
+
+## Mobile
 
 <br/>
 
