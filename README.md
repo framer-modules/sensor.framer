@@ -1,22 +1,37 @@
-# Mobile sensor
+# Mobile Sensor
 A Framer Studio module for deivce sensor to your project.  
 
 [Demo - Orientation Sensor](http://share.framerjs.com/0u4qyj91uvub/)  
 [Demo - Motion Sensor](http://share.framerjs.com/9ugkru2ubjy6/)
 > check it on the device that provides the motion sensor (mobile).
 
+<br/>
+
 # Preview
 [![Sensor module for Framer](screenrecord.gif)](https://vimeo.com/196395840)  
 "Sensor module for Framer - Click to Watch!"
+
+<br/>
+
+# Expansion
+- [360 degree viewer](/360viewer.framer)
+- [Lenticular](/lenticular.framer)
+- [Simulator for Desktop](/orientation-simulator.framer)
+
+<br/>
 
 # Features
 - Multiple browser supported
 - Orientation Sensor 
 - Motion Sensor
 
+<br/>
+
 # Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
+
+<br/>
 
 # Usage
 ### Context
