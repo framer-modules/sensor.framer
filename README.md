@@ -8,8 +8,9 @@ A Framer Studio module for deivce sensor to your project.
 <br/>
 
 ## Preview
-[![Sensor module for Framer](screenrecord.gif)](https://vimeo.com/196395840)  
-"Sensor module for Framer - Click to Watch!"
+> https://vimeo.com/196395840 - `Full version Preview`  
+
+![Sensor module for Framer](screenrecord.gif)
 
 <br/>
 
@@ -46,7 +47,7 @@ Get system service
 ###### Parameters
 - service [string] : service
 
----
+<br/>
 
 ### Sensor
 #### Constant
