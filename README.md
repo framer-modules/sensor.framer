@@ -44,7 +44,7 @@ Sensor service
 Get system service
 
 ###### Parameters
-* service [string] - service
+- service [string] : service
 
 ---
 
@@ -60,7 +60,7 @@ Motion sensor
 ##### Sensor.smooth
 [Number] Coefficient of sensor transfer value  
 > Since the sensor of the device reacts very sensitively, if the value transmitted from the sensor is used as it is, the small movement of the device will cause it to shake or vibrate.
->You can adjust the value to obtain a smoothly tuned value
+> You can adjust the value to obtain a smoothly tuned value
 
 #### Events
 ##### Change
@@ -72,25 +72,25 @@ When the sensor value changes
 **Sensor.onChange(orientation or motion)**
 
 ###### Parameters
-* orientation [Object] - Orientation values (Orientation Sensor)
-    * alpha [Double] - Z-axis rotation
-    * beta [Double] - X-axis rotation
-    * gamma [Double] - Y-axis rotation
+- orientation [Object] - Orientation values (Orientation Sensor)
+    - alpha [Double] - Z-axis rotation
+    - beta [Double] - X-axis rotation
+    - gamma [Double] - Y-axis rotation
 
-* motion [Object] - Motion values (Motion Sensor)
-    * acceleration
-        * x [Double]
-        * y [Double]
-        * z [Double]
-    * accelerationIncludingGravity
-        * x [Double]
-        * y [Double]
-        * z [Double]
-    * rotationRate
-        * alpha [Double]
-        * beta [Double]
-        * gamma [Double]
-        * interval [Double]
+- motion [Object] - Motion values (Motion Sensor)
+    - acceleration
+        - x [Double]
+        - y [Double]
+        - z [Double]
+    - accelerationIncludingGravity
+        - x [Double]
+        - y [Double]
+        - z [Double]
+    - rotationRate
+        - alpha [Double]
+        - beta [Double]
+        - gamma [Double]
+        - interval [Double]
 
 > More info about Device Orientation Event : [W3C Device Orientation Event Specification](https://www.w3.org/TR/orientation-event/)
 
