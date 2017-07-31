@@ -3,17 +3,25 @@ A Framer Studio module for deivce sensor simulator to your project.
 
 [Demo](http://share.framerjs.com/x1tqsgi1i7uo/)
 
+<br/>
+
 # Preview
 ![Orientation simulator](screenrecord.gif)
+
+<br/>
 
 # Features
 - Multiple browser supported
 - Fullscreen supported
 - Tilting the device with left / right mouse movement
 
+<br/>
+
 # Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
+
+<br/>
 
 # Usage
 ### OrientationSimulator
@@ -24,6 +32,8 @@ When the tilt value changes
 
 ###### Parameters
 * gamma [Double] - Y-axis rotation (default: 0, range: -1.0 ~ 1.0)
+
+<br/>
 
 # Sample
 ### Prepare
