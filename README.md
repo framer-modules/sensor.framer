@@ -7,33 +7,33 @@ A Framer Studio module for deivce sensor to your project.
 
 <br/>
 
-# Preview
+## Preview
 [![Sensor module for Framer](screenrecord.gif)](https://vimeo.com/196395840)  
 "Sensor module for Framer - Click to Watch!"
 
 <br/>
 
-# Features
+## Features
 - Multiple browser supported
 - Orientation Sensor 
 - Motion Sensor
 
 <br/>
 
-# Installation
+## Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
 
 <br/>
 
-# Expansion
+## Expansion
 - [360° Viewer](/360Viewer.framer) : 360 degree rotation viewer
 - [Lenticular](/lenticular.framer) : 2 ~ 3 image transition
 - [Simulator for Desktop](/simulator.framer) : Orientation Simulator
 
 <br/>
 
-# Usage
+## Usage
 ### Context
 #### Constant
 ##### Context.SENSOR_SERVICE
@@ -96,7 +96,7 @@ When the sensor value changes
 
 <br/>
 
-# Sample
+## Sample
 ### Prepare
 #### Set background color
 ```coffeescript
