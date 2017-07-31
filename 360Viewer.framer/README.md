@@ -2,16 +2,24 @@
 A Framer Studio module for 360 degree rotation viewer using mobile sensor  
 [Demo - Basic](http://share.framerjs.com/x1tqsgi1i7uo/)
 
+<br/>
+
 # Preview
 ![Orientation simulator](screenrecord.gif)
+
+<br/>
 
 # Features
 - Multiple browser supported
 - 360° object rotation with left / right tilt (Using multiple rotation images)
 
+<br/>
+
 # Installation
 Copy the "module" folder and paste it into your prototype folder
 > More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules.modules)
+
+<br/>
 
 # Usage
 ### Viewer360
@@ -37,6 +45,8 @@ Set array of image paths to rotate
   
 ##### Viewer360.reset()
 Initialize image index of array (first image)
+
+<br/>
 
 # Sample
 ### Prepare
