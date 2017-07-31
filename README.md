@@ -29,7 +29,7 @@ Copy the "module" folder and paste it into your prototype folder
 # Expansion
 - [360° Viewer](/360Viewer.framer) : 360 degree rotation viewer
 - [Lenticular](/lenticular.framer) : 2 ~ 3 image transition
-- [Simulator for Desktop](/orientation-simulator.framer) : Orientation Simulator
+- [Simulator for Desktop](/simulator.framer) : Orientation Simulator
 
 <br/>
 
