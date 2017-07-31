@@ -47,6 +47,7 @@ Get system service
 * service [string] - service
 
 ---
+
 ### Sensor
 #### Constant
 ##### Sensor.TYPE_ORIENTATION
@@ -92,6 +93,8 @@ When the sensor value changes
         * interval [Double]
 
 > More info about Device Orientation Event : [W3C Device Orientation Event Specification](https://www.w3.org/TR/orientation-event/)
+
+<br/>
 
 # Sample
 ### Prepare
