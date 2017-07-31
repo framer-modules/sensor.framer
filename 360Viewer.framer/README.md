@@ -25,25 +25,25 @@ Copy the "module" folder and paste it into your prototype folder
 ### Viewer360
 
 #### Properties
-##### Viewer360.dragFriction
+##### dragFriction
 [Number] Friction during drag (default : 1.0)
 
-##### Viewer360.flingFriction
+##### flingFriction
 [Number] Friction during Fling (default : 1.0)
 
-##### Viewer360.sensorFriction
+##### sensorFriction
 [Number] Friction when moving by sensor (default : 1.0)
 
-##### Viewer360.images
+##### images
 [Array] Array of image paths to rotate
 
 #### Method
-##### Viewer360.setImages(images)
+##### setImages(images)
 Set array of image paths to rotate
 ###### Parameters
-* images [Array] : array of image paths
+- images [Array] : array of image paths
   
-##### Viewer360.reset()
+##### reset()
 Initialize image index of array (first image)
 
 <br/>
