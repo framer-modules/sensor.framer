@@ -1,0 +1,20 @@
+{
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceOrientation" : 0,
+  "sharedPrototype" : 0,
+  "contentScale" : 1,
+  "deviceType" : "apple-iphone-7-silver",
+  "selectedHand" : "iphone-hands-2",
+  "updateDelay" : 0.3,
+  "deviceScale" : "fit",
+  "foldedCodeRanges" : [
+    "{0, 321}",
+    "{323, 161}",
+    "{485, 915}",
+    "{1401, 808}"
+  ],
+  "orientation" : 0,
+  "fullScreen" : false
+}

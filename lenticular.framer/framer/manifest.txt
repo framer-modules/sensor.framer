@@ -1,0 +1,57 @@
+app.coffee
+framer/backups/backup-2016-12-12 17.03.55.coffee
+framer/backups/backup-2016-12-12 17.04.55.coffee
+framer/backups/backup-2016-12-12 17.07.55.coffee
+framer/backups/backup-2016-12-12 17.08.55.coffee
+framer/backups/backup-2016-12-12 17.23.55.coffee
+framer/backups/backup-2016-12-12 17.29.55.coffee
+framer/backups/backup-2016-12-12 17.37.55.coffee
+framer/backups/backup-2016-12-12 17.38.55.coffee
+framer/backups/backup-2016-12-12 17.40.55.coffee
+framer/backups/backup-2016-12-12 17.41.55.coffee
+framer/backups/backup-2016-12-12 17.49.54.coffee
+framer/backups/backup-2016-12-12 17.50.54.coffee
+framer/backups/backup-2016-12-12 17.51.54.coffee
+framer/backups/backup-2016-12-12 17.52.54.coffee
+framer/backups/backup-2016-12-12 17.53.54.coffee
+framer/backups/backup-2016-12-12 18.04.54.coffee
+framer/backups/backup-2016-12-12 18.05.54.coffee
+framer/backups/backup-2016-12-12 18.06.54.coffee
+framer/backups/backup-2016-12-12 18.10.54.coffee
+framer/backups/backup-2016-12-12 18.11.54.coffee
+framer/backups/backup-2016-12-12 18.32.54.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/style.css
+framer/version
+images/after.jpg
+images/before.jpg
+images/lenticular_material.png
+imported/common@1x/images/Layer-category-ndjfnki0.jpg
+imported/common@1x/images/Layer-search-m0uwotbg.jpg
+imported/common@1x/images/Layer-status_bar_black-otndrey0.png
+imported/common@1x/images/Layer-status_bar_white-mky1mkew.png
+imported/common@1x/layers.json
+imported/common@1x/layers.json.js
+index.html
+modules/Lenticular.coffee
+modules/OrientationSimulator.coffee
+modules/System-Sensor.coffee
+modules/System.coffee
