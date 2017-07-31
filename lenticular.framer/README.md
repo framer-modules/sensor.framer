@@ -5,7 +5,7 @@
 
 <br/>
 
-데모 : https://framer-modules.github.io/sensor.framer/lenticular.framer
+Demo : https://framer-modules.github.io/sensor.framer/lenticular.framer
 
 <br/>
 
