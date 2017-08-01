@@ -13,6 +13,8 @@ Demo : https://framer-modules.github.io/sensor.framer/lenticular.framer
 <br/>
 
 ## Preview
+### Desktop
+### Mobile
 
 <br/>
 
