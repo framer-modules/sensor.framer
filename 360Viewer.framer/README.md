@@ -6,10 +6,7 @@ Demo : https://framer-modules.github.io/sensor.framer/360Viewer.framer
 <br/>
 
 ## Preview
-### Desktop
 ![Orientation simulator](screenrecord.gif)
-
-### Mobile
 
 <br/>
 
