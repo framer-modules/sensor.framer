@@ -13,8 +13,12 @@ Demo : https://framer-modules.github.io/sensor.framer/lenticular.framer
 <br/>
 
 ## Preview
-### Desktop
-### Mobile
+### Both
+![preview - BOTH](screenrecord-both.gif)
+### Left
+![preview - LEFT](screenrecord-left.gif)
+### Right
+![preview - RIGHT](screenrecord-right.gif)
 
 <br/>
 
