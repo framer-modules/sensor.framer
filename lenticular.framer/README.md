@@ -60,6 +60,7 @@ Add other layer
 <br/>
 
 ## Sample
+### Both
 ```coffeescript
 # Module
 {Lenticular} = require 'Lenticular'
@@ -71,4 +72,30 @@ lenticular = new Lenticular
 lenticular.setDefault new Layer width: 750, height: 1334, image: "images/before.jpg"
 # add layer
 lenticular.addScene new Layer width: 750, height: 1334, image: "images/after.jpg"
+```
+### Left
+```coffeescript
+# Module
+{Lenticular} = require 'Lenticular'
+# Constructor
+lenticular = new Lenticular
+    width: 750, height: 1334
+    backgroundColor: "white"
+# set default
+lenticular.setDefault new Layer width: 750, height: 1334, image: "images/before.jpg"
+# add layer
+lenticular.addScene (new Layer width: 750, height: 1334, image: "images/after.jpg"), Lenticular.Orientation.Left
+```
+### Right
+```coffeescript
+# Module
+{Lenticular} = require 'Lenticular'
+# Constructor
+lenticular = new Lenticular
+    width: 750, height: 1334
+    backgroundColor: "white"
+# set default
+lenticular.setDefault new Layer width: 750, height: 1334, image: "images/before.jpg"
+# add layer
+lenticular.addScene (new Layer width: 750, height: 1334, image: "images/after.jpg"), Lenticular.Orientation.Right
 ```
