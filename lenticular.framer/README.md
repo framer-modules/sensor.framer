@@ -1,7 +1,10 @@
 # Lenticular
+**For more information on Lenticular, please see [here](https://en.wikipedia.org/wiki/Lenticular_printing)**  
+<br/>
 2 ~ 3 images lenticular effect
 
-> Sensor and Simulator module is included.  
+> [Sensor](https://github.com/framer-modules/sensor.framer) and [Simulator](https://github.com/framer-modules/sensor.framer/tree/master/simulator.framer) module is included.  
+
 
 <br/>
 
@@ -10,6 +13,8 @@ Demo : https://framer-modules.github.io/sensor.framer/lenticular.framer
 <br/>
 
 ## Preview
+### Desktop
+### Mobile
 
 <br/>
 

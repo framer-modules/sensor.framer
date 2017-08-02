@@ -27,7 +27,7 @@ Copy the "module" folder and paste it into your prototype folder
 ### OrientationSimulator
 
 #### Method
-##### OrientationSimulator.onTilt(gamma)
+##### onTilt(gamma)
 When the tilt value changes  
 
 ###### Parameters
